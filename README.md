@@ -1,8 +1,8 @@
 # Lucas-Vieira
 
-<h1 align="center">Olá! 👋 Eu sou o Lucas Vieira</h1>
+<h1 align="center">Olá! 👋 </h1>
 
-<p align="center">Desenvolvedor Full Stack Jr. com foco em Angular, Spring Boot e Laravel</p>
+<p align="center">Desenvolvedor Full Stack. com foco em Angular, Spring Boot e Laravel</p>
 
 ---
 
@@ -27,18 +27,18 @@
 ### Testes
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ---
 
 ## 💻 Projetos em Destaque
 
+- 🔧 **[Sistema de listagem](https://lista-compras-brown-beta.vercel.app/)**
+  
 - 🔧 **[Sistema de Gerenciamento de Serviços](https://github.com/seuusuario/repositorio1)**  
   Sistema full stack com Spring Boot + Angular, rotas protegidas, persistência com PostgreSQL.
 
 - 🎮 **[PokéAPI Angular App](https://github.com/seuusuario/repositorio2)**  
   Integração com API pública, uso de HttpClient, modularização e práticas do Angular moderno.
-
 ---
 
 ## 📫 Vamos nos conectar!
